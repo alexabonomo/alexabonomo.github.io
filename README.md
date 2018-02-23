@@ -10,7 +10,7 @@
 ## Team
 #### Alexa
   - Role: lead designer.
-  - Goals: Improve data stucture and javascript knowledge. Play with libraries. Learn Research methods, deploy a generative algorithm, incorporate human interaction, create data visuals
+  - Goals: Improve data stucture and javascript knowledge. Play with libraries. Learn research methods, deploy a generative       algorithm, incorporate human interaction, create data visuals
   
 #### Stephanie
   - Role: lead developer.
